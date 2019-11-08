@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Day 1</string>
+    <string name="login">login karyawan</string>
+    <string name="UserLogin">User Name</string>
+    <string name="Pasword">Password</string>
+    <string name="LoginButton">Login</string>
+</resources>
