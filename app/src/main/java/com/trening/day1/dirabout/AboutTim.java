@@ -40,11 +40,11 @@ public class AboutTim {
     };
 
     private static int []ImgTim = {
-            R.drawable.androidimg,
-            R.drawable.androidimg,
-            R.drawable.androidimg,
-            R.drawable.ardiansyah,
-            R.drawable.androidimg,
+            R.drawable.ic_launcher_background,
+            R.drawable.ic_launcher_background,
+            R.drawable.ic_launcher_background,
+            R.drawable.ic_launcher_background,
+            R.drawable.ic_launcher_background,
     };
 
    public static ArrayList<DataTim>getDataTim() {
